@@ -3,6 +3,8 @@
 To install dependencies:
 
 ```bash
+#  npm, pnpm, or any other node runtime that allows calling TS files directly
+# (or to compile first and then run JS files instead)
 bun install
 ```
 
