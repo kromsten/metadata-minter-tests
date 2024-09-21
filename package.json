@@ -1,0 +1,15 @@
+{
+  "name": "meta-tester",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "merkletreejs": "^0.4.0",
+    "@cosmjs/encoding": "^0.32.4"
+  }
+}
