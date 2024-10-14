@@ -1,39 +1,39 @@
 [
     {   
        "metadata": { "image": "ipfs://bafybeiavall5udkxkdtdm4djezoxrmfc6o5fn2ug3ymrlvibvwmwydgrkm/1.jpg", "description":"Were Space Skellies! Protecting the galaxy one planet at a time. Staking, P2E, PVP, and endless rewards for holders!", "name": "Space Skellies #1", "attributes": [{"trait_type":"Background","value":"Eridanus"},{"trait_type":"Body","value":"Neon Orange"},{"trait_type":"Apparel","value":"None"},{"trait_type":"Mouth Accessories","value":"Angry"},{"trait_type":"Eyes Accessories","value":"Vr Glasses"},{"trait_type":"Headwear","value":"None"}] },
-       "token_id": 1
+       "token_id": "1"
     },
     {
         "metadata": { "image": "ipfs://bafybeiavall5udkxkdtdm4djezoxrmfc6o5fn2ug3ymrlvibvwmwydgrkm/2.jpg", "description": "Were Space Skellies! Protecting the galaxy one planet at a time. Staking, P2E, PVP, and endless rewards for holders!", "name": "Space Skellies #2", "attributes": [{"trait_type":"Background","value":"Blue"},{"trait_type":"Body","value":"Pink"},{"trait_type":"Apparel","value":"Wizard"},{"trait_type":"Mouth Accessories","value":"Normal"},{"trait_type":"Eyes Accessories","value":"Confused"},{"trait_type":"Headwear","value":"None"}] },
-        "token_id": 2
+        "token_id": "2"
     },
     {
         "metadata": {"image": "ipfs://bafybeiavall5udkxkdtdm4djezoxrmfc6o5fn2ug3ymrlvibvwmwydgrkm/3.jpg", "description": "Were Space Skellies! Protecting the galaxy one planet at a time. Staking, P2E, PVP, and endless rewards for holders!", "name": "Space Skellies #3", "attributes": [{"trait_type":"Background","value":"Lacerta"},{"trait_type":"Body","value":"Rainbow"},{"trait_type":"Apparel","value":"None"},{"trait_type":"Mouth Accessories","value":"Normal"},{"trait_type":"Eyes Accessories","value":"Space Glasses"},{"trait_type":"Headwear","value":"Terra Pom Beanie"}] },
-        "token_id": 3
+        "token_id": "3"
     },
 
     {
         "metadata": {"image": "ipfs://bafybeiavall5udkxkdtdm4djezoxrmfc6o5fn2ug3ymrlvibvwmwydgrkm/4.jpg", "description":"Were Space Skellies! Protecting the galaxy one planet at a time. Staking, P2E, PVP, and endless rewards for holders!", "name": "Space Skellies #4", "attributes": [{"trait_type":"Background","value":"Sagittarius"},{"trait_type":"Body","value":"Urban Digital"},{"trait_type":"Apparel","value":"None"},{"trait_type":"Mouth Accessories","value":"Broken Teeth"},{"trait_type":"Eyes Accessories","value":"Laser Red"},{"trait_type":"Headwear","value":"None"}] },
-        "token_id": 4
+        "token_id": "4"
     },
 
     {
        "metadata": {"image": "ipfs://bafybeiavall5udkxkdtdm4djezoxrmfc6o5fn2ug3ymrlvibvwmwydgrkm/5.jpg", "description": "Were Space Skellies! Protecting the galaxy one planet at a time. Staking, P2E, PVP, and endless rewards for holders!", "name": "Space Skellies #5", "attributes": [{"trait_type":"Background","value":"Cygnus"},{"trait_type":"Body","value":"Purple"},{"trait_type":"Apparel","value":"None"},{"trait_type":"Mouth Accessories","value":"Baked"},{"trait_type":"Eyes Accessories","value":"Square Sunglasses"},{"trait_type":"Headwear","value":"Gold Crown"}] },
-       "token_id": 5 
+       "token_id": "5" 
     },
 
     {
         "metadata": {"image": "ipfs://bafybeiavall5udkxkdtdm4djezoxrmfc6o5fn2ug3ymrlvibvwmwydgrkm/6.jpg", "description": "Were Space Skellies! Protecting the galaxy one planet at a time. Staking, P2E, PVP, and endless rewards for holders!", "name": "Space Skellies #6", "attributes": [{"trait_type":"Background","value":"Aquila"},{"trait_type":"Body","value":"Pink"},{"trait_type":"Apparel","value":"Master Chief"},{"trait_type":"Mouth Accessories","value":"Angry"},{"trait_type":"Eyes Accessories","value":"Terminator"},{"trait_type":"Headwear","value":"NFT Switch"}] },
-        "token_id": 6
+        "token_id": "6"
     },
 
     {
         "metadata": {"image": "ipfs://bafybeiavall5udkxkdtdm4djezoxrmfc6o5fn2ug3ymrlvibvwmwydgrkm/7.jpg", "description": "Were Space Skellies! Protecting the galaxy one planet at a time. Staking, P2E, PVP, and endless rewards for holders!", "name": "Space Skellies #7", "attributes": [{"trait_type":"Background","value":"Pisces"},{"trait_type":"Body","value":"Alien"},{"trait_type":"Apparel","value":"Ray Gun"},{"trait_type":"Mouth Accessories","value":"Poker Chip"},{"trait_type":"Eyes Accessories","value":"3D Glasses"},{"trait_type":"Headwear","value":"None"}] },
-        "token_id": 7
+        "token_id": "7"
     },
 
     {
         "metadata": {"image": "ipfs://bafybeiavall5udkxkdtdm4djezoxrmfc6o5fn2ug3ymrlvibvwmwydgrkm/8.jpg", "description": "Were Space Skellies! Protecting the galaxy one planet at a time. Staking, P2E, PVP, and endless rewards for holders!", "name": "Space Skellies #8", "attributes": [{"trait_type":"Background","value":"Cepheus"},{"trait_type":"Body","value":"Normal"},{"trait_type":"Mouth","value":"Angry"},{"trait_type":"Eyes","value":"LAS"},{"trait_type":"Astronaut suit","value":"Tie Dye"}] },
-        "token_id": 8
+        "token_id": "8"
     }
 ]

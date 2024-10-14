@@ -42,8 +42,7 @@ const tree = new MerkleTree(metadataHashed, sha256, { sortPairs: true })
 const root = tree.getRoot();
 
 if (values.root) {
-  console.log('root: ', root.toString('hex'))
-  sys.exit(0)
+  console.log('root: ', root.toString('hex'), '\n')
 }
 
 
@@ -54,7 +53,7 @@ if (isNaN(num)) {
   console.error('id must be numeric')
   sys.exit(1)
 }
-const index = metadata.findIndex((item) => item.token_id === num)
+const index = metadata.findIndex((item) => item.token_id === id)
 if (index === -1) {
   console.error('id not found')
   sys.exit(1)
@@ -62,7 +61,7 @@ if (index === -1) {
 
 const token = metadata[index]
 const tokenHashed = metadataHashed[index]
-const proof = tree.getHexProof(tokenHashed)
+const proof = tree.getHexProof(tokenHashed).map(h => h.slice(2))
 
 
 const mint_data : MintData = {
